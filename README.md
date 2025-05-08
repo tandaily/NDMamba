@@ -1,4 +1,4 @@
-# NDMamba
+# NDMamba: Dual-Prior State-Space Model for Nighttime Deraining
 
 ## Installation
 
