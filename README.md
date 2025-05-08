@@ -17,3 +17,7 @@ Pre-trained model for GTAV-NightRain Dataset: [model](https://drive.google.com/f
 ## Training
 
 ## Evaluation
+
+## Acknowledgment
+This code is built upon [BasicSR](https://github.com/XPixelGroup/BasicSR), [Restormer](https://github.com/swz30/Restormer), [Mamba](https://github.com/state-spaces/mamba) and [MambaIR](https://github.com/csguoh/MambaIR). Thanks for their work.   
+ 
