@@ -12,7 +12,7 @@ RealRain-1k Dataset [link](https://drive.google.com/file/d/1x1YuRxsykHlMApne2ErC
 
 ## Pre-trained Models
 
-Pre-trained model for GTAV-NightRain Dataset: [model](https://drive.google.com/file/d/1DlqhokxiA5zgF-J5kCLitfC32b_JcppS/view?usp=drive_link)
+Pre-trained model for GTAV-NightRain Dataset: [model](https://drive.google.com/file/d/1KjH3lpCxnkL5FFicrvYFLtHK3AudVvk4/view?usp=drive_link)
 
 ## Training
 
