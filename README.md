@@ -27,9 +27,9 @@ Pre-trained model for Night-Rain Dataset: [model](https://drive.google.com/file/
 Pre-trained model for RealRain-1k Dataset: [model](https://drive.google.com/file/d/1gCCE3eoaiFuenHSyY1_fps-prCE1xLMd/view?usp=drive_link)    
 
 ## Visualization
-[<img src="assets/imgsli1.png" height="400px"/>](https://imgsli.com/MzgwMTA5)   
+[<img src="assets/imgsli1.png" height="200px"/>](https://imgsli.com/MzgwMTA5)   
 
-[<img src="assets/imgsli2.png" height="400px"/>](https://imgsli.com/MzgwMTEw)
+[<img src="assets/imgsli2.png" height="200px"/>](https://imgsli.com/MzgwMTEw)
 
 ## Training
 ```
