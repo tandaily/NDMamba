@@ -1,4 +1,4 @@
-# NDMamba: Dual-Prior State-Space Model for Nighttime Deraining
+# [TIP2025] NDMamba: Dual-Prior State-Space Model for Nighttime Deraining
 
 ## Installation
 Setting Up the `Mamba` Environment：  
